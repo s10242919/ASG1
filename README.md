@@ -1,11 +1,18 @@
+<style>
+  .purple {
+    color:inherit;
+  }
+  .purple:hover {
+    color:rgb(107,79,187);
+  }
+</style>
+
 # ASG1
 
 Elizabeth Tan - s10242919  
   
-A website for sports fans to receive live sports updates and catch up on the latest news.  
+<purple>A website for sports fans to receive live sports updates and catch up on the latest news.</purple>
 
-Target Audience: sports fans  
-Purpose: A one-stop hub to read news
 
 - [x] basketball
 - [x] football
@@ -13,3 +20,7 @@ Purpose: A one-stop hub to read news
 - [x] rock climbing
 - [x] rugby
 - [x] table tennis
+
+Example:  
+Football  
+Leagues:
