@@ -1,12 +1,3 @@
-<style>
-red { color: red }
-yellow { color: yellow }
-green { color: green }
-news {
-    max-width: 100px;
-}
-</style>
-
 # Assignment 1 Brief :pencil:
 
 Elizabeth Tan :sunglasses: - s10242919  
@@ -43,13 +34,13 @@ ___Example: Football :soccer:___
 
 |  | Competition | Home | Score | Away | Min | Watch |
 | :---: | :--- | ---: | :---: | :--- | :---: | --- |
-| :uk:  | Premier League | Chelsea | 0-1 | Arsenal | <green>13'</green> | Starhub Premier+ |
-| :uk:  | Premier League | Tottenham Hotspur | 1-2 | Liverpool | <green>13'</green> | Starhub Premier+ |  
-| :uk:  | FA WSL | Leiceister City Women | 0-4 | Arsenal Women | <green>30'</green> | FA Player |  
-| :de: | Bundesliga | VfL Wolfsburg | 2-0 | Borussia Dortmund | <green>45'</green> | Singtel CAST | 
-| :es: | La Liga | Elche CF | 1-2 | Girona FC | <green>77'</green> | La Liga YouTube |  
-| :it: | Serie A | Napoli | 2-0 | Empoli | <green>80'</green> | Serie A Official Website |  
-| :it: | Serie A | Spezia | 1-1 | Udinese | <green>90'</green> | Serie A Official Website |  
+| :uk:  | Premier League | Chelsea | 0-1 | Arsenal | <p style="color: green;">13'</p> | Starhub Premier+ |
+| :uk:  | Premier League | Tottenham Hotspur | 1-2 | Liverpool | <p style="color: green;">13'</p> | Starhub Premier+ |  
+| :uk:  | FA WSL | Leiceister City Women | 0-4 | Arsenal Women | <p style="color: green;">30'</p> | FA Player |  
+| :de: | Bundesliga | VfL Wolfsburg | 2-0 | Borussia Dortmund | <p style="color: green;">45'</p> | Singtel CAST | 
+| :es: | La Liga | Elche CF | 1-2 | Girona FC | <p style="color: green;">77'</p> | La Liga YouTube |  
+| :it: | Serie A | Napoli | 2-0 | Empoli | <p style="color: green;">80'</p> | Serie A Official Website |  
+| :it: | Serie A | Spezia | 1-1 | Udinese | <p style="color: green;">90'</p> | Serie A Official Website | 
 
 </details>
 
@@ -70,7 +61,7 @@ ___Example: Football :soccer:___
 <details><summary><b>Premier League Statistics</b></summary>
 <br>
 
-> <details><summary><b>Goals</b></summary>
+> <details open><summary><b>Goals</b></summary>
 > <br>
 >  
 > | Rank | Name | Club | Goals |  
