@@ -34,13 +34,13 @@ ___Example: Football :soccer:___
 
 |  | Competition | Home | Score | Away | Min | Watch |
 | :---: | :--- | ---: | :---: | :--- | :---: | --- |
-| :uk:  | Premier League | Chelsea | 0-1 | Arsenal | <p style="color: green;">13'</p> | Starhub Premier+ |
-| :uk:  | Premier League | Tottenham Hotspur | 1-2 | Liverpool | <p style="color: green;">13'</p> | Starhub Premier+ |  
-| :uk:  | FA WSL | Leiceister City Women | 0-4 | Arsenal Women | <p style="color: green;">30'</p> | FA Player |  
-| :de: | Bundesliga | VfL Wolfsburg | 2-0 | Borussia Dortmund | <p style="color: green;">45'</p> | Singtel CAST | 
-| :es: | La Liga | Elche CF | 1-2 | Girona FC | <p style="color: green;">77'</p> | La Liga YouTube |  
-| :it: | Serie A | Napoli | 2-0 | Empoli | <p style="color: green;">80'</p> | Serie A Official Website |  
-| :it: | Serie A | Spezia | 1-1 | Udinese | <p style="color: green;">90'</p> | Serie A Official Website | 
+| :uk:  | Premier League | Chelsea | 0-1 | Arsenal | 13' | Starhub Premier+ |
+| :uk:  | Premier League | Tottenham Hotspur | 1-2 | Liverpool | 13'| Starhub Premier+ |  
+| :uk:  | FA WSL | Leiceister City Women | 0-4 | Arsenal Women | 30'| FA Player |  
+| :de: | Bundesliga | VfL Wolfsburg | 2-0 | Borussia Dortmund | 45' | Singtel CAST | 
+| :es: | La Liga | Elche CF | 1-2 | Girona FC | 77' | La Liga YouTube |  
+| :it: | Serie A | Napoli | 2-0 | Empoli | 80' | Serie A Official Website |  
+| :it: | Serie A | Spezia | 1-1 | Udinese | 90+1' | Serie A Official Website | 
 
 </details>
 
@@ -111,6 +111,6 @@ ___Example: Football :soccer:___
 <br>
 
 [When goalkeepers say NO! | Best Premier League saves | October](https://youtu.be/AaVFbFGZ-vc)
-[<img src="https://img.youtube.com/vi/AaVFbFGZ-vc/maxresdefault.jpg" width="600">](https://youtu.be/AaVFbFGZ-vc)
+[<img src="https://img.youtube.com/vi/AaVFbFGZ-vc/maxresdefault.jpg" alt="When goalkeepers say NO! | Best Premier League saves | October" width="600">](https://youtu.be/AaVFbFGZ-vc)
 
 </details>
