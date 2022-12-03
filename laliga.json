@@ -1,0 +1,22 @@
+[
+	[1, "FC Barcelona", 14, 12, 1, 1, 28, "BAR"],
+	[2, "Real Madrid", 14, 11, 2, 1, 19, "RMA"],
+	[3, "Real Sociedad", 14, 8, 2, 4, 2, "RSO"],
+	[4, "Athletic Club", 14, 7, 3, 4, 10, "ATH"],
+	[5, "Atlético de Madrid", 14, 7, 3, 4, 7, "ATM"],
+	[6, "Real Betis", 14, 7, 3, 4, 5, "BET"],
+	[7, "CA Osasuna", 14, 7, 2, 5, 2, "OSA"],
+	[8, "Rayo Vallecano", 14, 6, 4, 4, 4, "RAY"],
+	[9, "Villarreal CF", 14, 6, 3, 5, 5, "VIL"],
+	[10, "Valencia CF", 14, 5, 4, 5, 7, "VAL"],
+	[11, "RCD Mallorca", 14, 5, 4, 5, 0, "MLL"],
+	[12, "Real Valladolid CF", 14, 5, 2, 7, -8, "VLL"],
+	[13, "Girona FC", 14, 4, 4, 6, -2, "GIR"],
+	[14, "UD Almería", 14, 5, 1, 8, -6, "ALM"],
+	[15, "Getafe CF", 14, 3, 5, 6, -8, "GET"],
+	[16, "RCD Espanyol de Barcelona", 14, 2, 6, 6, -6, "ESP"],
+	[17, "RC Celta", 14, 3, 3, 8, -12, "CEL"],
+	[18, "Sevilla FC", 14, 2, 5, 7, -9, "SEV"],
+	[19, "Cádiz CF", 14, 2, 5, 7, -17, "CAD"],
+	[20, "Elche CF", 14, 0, 4, 10, -21, "ELC"]
+]

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta lang="en-GB" />
+		<title>Assignment 1</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="normalize.css" rel="stylesheet" />
+		<link href="style.css" rel="stylesheet" />
+	</head>
+	<body>
+		<header>
+			<input type="checkbox" id="hamburger" autocomplete="off" />
+			<label for="hamburger">
+				<div></div>
+				<div></div>
+				<div></div>
+			</label>
+			<a href="/football.html" class="to-home">
+				<h1>Sports</h1>
+				<span class="current-page">Football</span>
+			</a>
+			<nav class="main-nav">
+				<ul>
+					<li><a href="#" class="btn">News</a></li>
+					<li><a href="#" class="btn">Live</a></li>
+					<li><a href="#" class="btn">Fixtures</a></li>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<div class="overlay-container">
+				<div class="overlay"></div>
+			</div>
+			<section class="main-grid">
+				<div class="left">
+					<select class="dropdown" id="league-select"></select>
+					<table class="league-table">
+						<thead>
+							<tr class="league-table--header"></tr>
+						</thead>
+						<tbody class="league-table--body"></tbody>
+					</table>
+				</div>
+				<aside>
+					<article class="side-art article">
+						<img
+							src="/assets/images/prapoth-panchuea-_lTF9zrF1PY-unsplash.jpg"
+							alt="Image of a football game"
+						/>
+						<div class="art--text">
+							<h4>Football</h4>
+							<h3>Round-up of this week's action</h3>
+						</div>
+					</article>
+					<article class="side-art article">
+						<img
+							src="/assets/images/jannik-skorna-mY2ZHBU6GRk-unsplash.jpg"
+							alt="Image of men playing football"
+						/>
+						<div class="art--text">
+							<h4>Football</h4>
+							<h3>Latest Transfer News: Who is on the move?</h3>
+						</div>
+					</article>
+					<article class="side-art article">
+						<img
+							src="/assets/images/vienna-reyes-qCrKTET_09o-unsplash.jpg"
+							alt="Image of a football stadium"
+						/>
+						<div class="art--text">
+							<h4>Football</h4>
+							<h3>Best Players of All Time 2022</h3>
+						</div>
+					</article>
+				</aside>
+			</section>
+		</main>
+		<!-- <script src="/index.js"></script> -->
+		<script src="/football.js" type="module"></script>
+	</body>
+</html>
