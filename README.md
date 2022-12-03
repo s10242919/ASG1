@@ -1,11 +1,16 @@
 # Assignment 1 Brief :pencil:
 
-Elizabeth Tan :sunglasses: - s10242919  
-  
+Elizabeth Tan :sunglasses: - s10242919
+
+\*Only 3 functioning pages:
+
+- Homepage (index.html)
+- Football homepage (football.html)
+- One article (world-cup-2022.html)
+
 ## Introduction
 
-***A website for sports fans to receive live sports updates and catch up on the latest news.***
-
+**_A website for sports fans to receive live sports updates and catch up on the latest news._**
 
 - [x] Baseball :baseball:
 - [x] Basketball :basketball:
@@ -17,44 +22,44 @@ Elizabeth Tan :sunglasses: - s10242919
 
 <!---
 > Example:  Football :soccer:
->  
-> Most Popular Leagues:  
-> :one: [Premier League](https://www.premierleague.com/) :uk:  
-> :two: [La Liga](https://www.laliga.com/en-GB) :es:  
-> :three: [Serie A](https://www.legaseriea.it/en) :it:  
-> :four: [Bundesliga](https://www.bundesliga.com/en/bundesliga) :de:  
+>
+> Most Popular Leagues:
+> :one: [Premier League](https://www.premierleague.com/) :uk:
+> :two: [La Liga](https://www.laliga.com/en-GB) :es:
+> :three: [Serie A](https://www.legaseriea.it/en) :it:
+> :four: [Bundesliga](https://www.bundesliga.com/en/bundesliga) :de:
 > :five: [Ligue 1](https://www.ligue1.com/) :fr:
 --->
 
 ## Features
 
-___Example: Football :soccer:___
+**_Example: Football :soccer:_**
+
 <details><summary><b>Live Scores</b></summary>
 <br>
 
-|  | Competition | Home | Score | Away | Min | Watch |
-| :---: | :--- | ---: | :---: | :--- | :---: | --- |
-| :uk:  | Premier League | Chelsea | 0-1 | Arsenal | 13' | Starhub Premier+ |
-| :uk:  | Premier League | Tottenham Hotspur | 1-2 | Liverpool | 13'| Starhub Premier+ |  
-| :uk:  | FA WSL | Leiceister City Women | 0-4 | Arsenal Women | 30'| FA Player |  
-| :de: | Bundesliga | VfL Wolfsburg | 2-0 | Borussia Dortmund | 45' | Singtel CAST | 
-| :es: | La Liga | Elche CF | 1-2 | Girona FC | 77' | La Liga YouTube |  
-| :it: | Serie A | Napoli | 2-0 | Empoli | 80' | Serie A Official Website |  
-| :it: | Serie A | Spezia | 1-1 | Udinese | 90+1' | Serie A Official Website | 
+|      | Competition    |                  Home | Score | Away              |  Min  | Watch                    |
+| :--: | :------------- | --------------------: | :---: | :---------------- | :---: | ------------------------ |
+| :uk: | Premier League |               Chelsea |  0-1  | Arsenal           |  13'  | Starhub Premier+         |
+| :uk: | Premier League |     Tottenham Hotspur |  1-2  | Liverpool         |  13'  | Starhub Premier+         |
+| :uk: | FA WSL         | Leiceister City Women |  0-4  | Arsenal Women     |  30'  | FA Player                |
+| :de: | Bundesliga     |         VfL Wolfsburg |  2-0  | Borussia Dortmund |  45'  | Singtel CAST             |
+| :es: | La Liga        |              Elche CF |  1-2  | Girona FC         |  77'  | La Liga YouTube          |
+| :it: | Serie A        |                Napoli |  2-0  | Empoli            |  80'  | Serie A Official Website |
+| :it: | Serie A        |                Spezia |  1-1  | Udinese           | 90+1' | Serie A Official Website |
 
 </details>
 
 <details><summary><b>Premier League Table</b></summary>
-<br>  
+<br>
 
- Pos | Club | P | W | D | L | GF | GA | GD | Points |  
-| :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |   
-| 1  | Arsenal | 13 | 11 | 1 | 1 | 31 | 11 | +20 | 34 |  
-| 2  | Manchester City | 13 | 10 | 2 | 1 | 39 | 12 | +27 | 32 |
-| 3 | Newcastle United | 14 | 7 | 6 | 1 | 28 | 11 | +17 | 27 |
-| 4 | Tottenham Hotspur | 14 | 8 | 2 | 4 | 27 | 18 | +9 | 26 |   
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | 
-
+| Pos | Club              |  P  |  W  |  D  |  L  | GF  | GA  | GD  | Points |
+| :-: | ----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----: | --- |
+|  1  | Arsenal           | 13  | 11  |  1  |  1  | 31  | 11  | +20 |   34   |
+|  2  | Manchester City   | 13  | 10  |  2  |  1  | 39  | 12  | +27 |   32   |
+|  3  | Newcastle United  | 14  |  7  |  6  |  1  | 28  | 11  | +17 |   27   |
+|  4  | Tottenham Hotspur | 14  |  8  |  2  |  4  | 27  | 18  | +9  |   26   |
+| ... | ...               | ... | ... | ... | ... | ... | ... | ... |  ...   | ... |
 
 </details>
 
@@ -97,7 +102,6 @@ ___Example: Football :soccer:___
 > | ... | ... | ... | ... |
 > </details>
 
-
 </details>
 
 <details><summary><b>News Articles</b></summary>
@@ -105,7 +109,7 @@ ___Example: Football :soccer:___
 
 [Find out the Premier League stars featuring in Qatar as Denmark name their squad ![Christian Eriksen, Denmark](https://resources.premierleague.com/photos/2022/11/08/f3b56e5c-7c96-4fb1-9b47-d8dd59c8fadc/Christian-Eriksen-Denmark.png?width=600&height=400)](https://www.premierleague.com/news/2889365)
 
-</details>  
+</details>
 
 <details><summary><b>YouTube videos</b></summary>
 <br>

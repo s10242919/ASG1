@@ -24,7 +24,7 @@ leagueSelect.addEventListener("change", (e) => {
 
 async function fetchFile(fileName) {
 	let clubList = [];
-	await fetch(`/${fileName}.json`)
+	await fetch(`./assets/json/${fileName}.json`)
 		.then((res) => res.json())
 		.then((data) =>
 			data.forEach((e) => {
