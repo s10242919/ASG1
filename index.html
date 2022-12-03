@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Assignment 1</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="normalize.css" rel="stylesheet" />
+		<link href="style.css" rel="stylesheet" />
+	</head>
+	<body>
+		<header>
+			<input type="checkbox" id="hamburger" autocomplete="off" />
+			<label for="hamburger">
+				<div></div>
+				<div></div>
+				<div></div>
+			</label>
+			<a href="/index.html" class="to-home">
+				<h1>Sports</h1>
+				<span class="current-page">All</span>
+			</a>
+			<!-- <span class="current-page">All</span> -->
+		</header>
+		<main>
+			<div class="overlay-container">
+				<div class="overlay"></div>
+			</div>
+			<section class="article-container main-grid">
+				<article class="main-art article">
+					<a href="/world-cup-2022.html">
+						<img
+							src="/assets/images/thomas-serer-r-xKieMqL34-unsplash.jpg"
+							alt="Image of a football stadium"
+						/>
+						<div class="main-art--text">
+							<h2>Who will win the World Cup?</h2>
+							<p>
+								Click here to find out how you can catch the teams in action
+								this November!
+							</p>
+						</div>
+					</a>
+				</article>
+				<aside>
+					<article class="side-art article">
+						<img
+							src="/assets/images/zoe-reeve-JWmfUpVm8mg-unsplash.jpg"
+							alt="Image of a football stadium"
+						/>
+						<div class="art--text">
+							<h4>Tennis</h4>
+							<h3>Roger Federer announces retirement</h3>
+						</div>
+					</article>
+					<article class="side-art article">
+						<img
+							src="/assets/images/courtney-cook-SsIIw_MET0E-unsplash.jpg"
+							alt="Image of a man playing golf"
+						/>
+						<div class="art--text">
+							<h4>Golf</h4>
+							<h3>Leaderboard after Round 2 of the RSM Classic</h3>
+						</div>
+					</article>
+					<article class="side-art article">
+						<img
+							src="/assets/images/serena-repice-lentini-TVOAbbLL050-unsplash.jpg"
+							alt="Image of a swimming race"
+						/>
+						<div class="art--text">
+							<h4>Swimming</h4>
+							<h3>Roger Federer announces retirement</h3>
+						</div>
+					</article>
+				</aside>
+			</section>
+		</main>
+		<script src="/index.js" type="module"></script>
+	</body>
+</html>

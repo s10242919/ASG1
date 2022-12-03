@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Assignment 1</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="normalize.css" rel="stylesheet" />
+		<link href="style.css" rel="stylesheet" />
+	</head>
+	<body>
+		<header>
+            <input type="checkbox" id="hamburger" autocomplete="off" />
+			<label for="hamburger">
+				<div></div>
+				<div></div>
+				<div></div>
+			</label>
+			<a href="/football.html" class="to-home">
+				<h1>Sports</h1>
+				<span class="current-page">Football</span>
+			</a>
+		</header>
+		<main>
+            <div class="overlay-container">
+				<div class="overlay"></div>
+			</div>
+			<section class="article-container">
+				<article class="article--page">
+                    <figure>
+                        <img
+                            src="/assets/images/thomas-serer-r-xKieMqL34-unsplash.jpg"
+                            alt="Image of a football stadium"
+                        />
+                        <figcaption>Photo by Thomas Serer on Unsplash</figcaption>
+                    </figure>
+                    <div class="article--text">
+                        <h2 class="article--title">Who will win the World Cup?</h2>
+                        <p class="article--meta">
+                            Author: Elizabeth
+                            <br>
+                            Date: 18 November 2022
+                        </p>
+                        <br />
+                        <hr>
+                        <br />
+                        <p class="article--content">
+                            With the World Cup approaching, many are wondering where they
+                            can catch all the live action.
+                            <br />
+                            <br />
+                            Here is a list of channels and websites around the globe:
+                            <br />
+                            <ul>
+                                <li>ESPN (USA)</li>
+                                <li>FoxSports (USA)</li>
+                                <li>Starhub (Singapore)</li>
+                                <li>SingTel (Singapore)</li>
+                                <li>BeIN Sports (Global)</li>
+                            </ul>
+                        </p>
+                    </div>
+				</article>
+			</section>
+		</main>
+		<script src="/article.js" type="module"></script>
+	</body>
+</html>

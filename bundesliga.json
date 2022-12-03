@@ -1,0 +1,20 @@
+[
+	[1, "FC Bayern München", 15, 10, 4, 1, 36, "FCB"],
+	[2, "SC Freiburg", 15, 9, 3, 3, 8, "SCF"],
+	[3, "RB Leipzig", 15, 8, 4, 3, 9, "RBL"],
+	[4, "Eintracht Frankfurt", 15, 8, 3, 4, 8, "SGE"],
+	[5, "1. Union Berlin", 15, 8, 3, 4, 4, "FCU"],
+	[6, "Borussia Dortmund", 15, 8, 1, 6, 4, "BVB"],
+	[7, "Vfl Wolfsburg", 15, 6, 5, 4, 4, "WOB"],
+	[8, "Borussia M'gladbach", 15, 6, 4, 5, 4, "BMG"],
+	[9, "SV Werder Bremen", 15, 6, 3, 6, -2, "SVW"],
+	[10, "1. FSV Mainz 05", 15, 5, 4, 6, -5, "M05"],
+	[11, "TSG Hoffenheim", 15, 5, 3, 7, 0, "TSG"],
+	[12, "Bayer 04 Leverkusen", 15, 5, 3, 7, -1, "B04"],
+	[13, "1. FC Köln", 15, 4, 5, 6, -8, "KOE"],
+	[14, "FC Ausburg", 15, 4, 3, 8, -8, "FCA"],
+	[15, "Hertha Berlin", 15, 3, 5, 7, -3, "BSC"],
+	[16, "VfB Stuttgart", 15, 3, 5, 7, -9, "VFB"],
+	[17, "VfL Bochum 1848", 15, 4, 1, 10, -22, "BOC"],
+	[18, "FC Shalke 04", 15, 2, 3, 10, -19, "S04"]
+]

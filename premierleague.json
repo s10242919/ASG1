@@ -1,0 +1,22 @@
+[
+    [1, "Arsenal", 14, 12, 1, 1, 22, "ARS"],
+    [2, "Manchester City", 14, 10, 2, 2, 26, "MCI"],
+    [3, "Newcastle United", 15, 8, 6, 1, 18, "NEW"],
+    [4, "Tottenham Hotspur", 15, 9, 2, 4, 10, "TOT"],
+    [5, "Manchester United", 14, 8, 2, 4, 0, "MUN"],
+    [6, "Liverpool", 14, 6, 4, 4, 11, "LIV"],
+    [7, "Brighton & Hove Albion", 14, 6, 3, 5, 4, "BHA"],
+    [8, "Chelsea", 14, 6, 3, 5, 0, "CHE"],
+    [9, "Fulham", 15, 5, 4, 6, -2, "FUL"],
+    [10, "Brentford", 15, 4, 7, 4, -2, "BRE"],
+    [11, "Crystal Palace", 14, 5, 4, 5, -3, "CRY"],
+    [12, "Aston Villa", 15, 5, 3, 7, -6, "AVL"],
+    [13, "Leiceister City", 15, 5, 2, 8, 0, "LEI"],
+    [14, "Bournemouth", 15, 4, 4, 7, -14, "BOU"],
+    [15, "Leeds United", 14, 4, 3, 7, -4, "LEE"],
+    [16, "West Ham United", 15, 4, 2, 9, -5, "WHU"],
+    [17, "Everton", 15, 3, 5, 7, -6, "EVE"],
+    [18, "Nottingham Forest", 15, 3, 4, 8, -19, "NFO"],
+    [19, "Southampton", 15, 3, 3, 9, -14, "SOU"],
+    [20, "Wolverhampton Wanderers", 15, 2, 4, 9, -16, "WOL"]
+]
